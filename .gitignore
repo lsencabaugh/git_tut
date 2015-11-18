@@ -1,0 +1,3 @@
+logthing.txt
+/ignoreme/*
+!/ignoreme/notme*
